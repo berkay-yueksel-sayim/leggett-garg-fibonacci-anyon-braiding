@@ -1,3 +1,4 @@
+**Preprint archived on Zenodo:** https://doi.org/10.5281/zenodo.20372744
 # LGI Letter v1.0 — Zenodo Build
 
 **Title:** Leggett-Garg saturation and structural signatures in Fibonacci-anyon braiding
